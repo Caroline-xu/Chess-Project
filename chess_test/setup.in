@@ -1,0 +1,12 @@
+setup
++ K e1
++ r a1
+= colour
+= colour
++ R a2
+= colour
++ P f2
+- e1
++ k c4
++ K c8
+done

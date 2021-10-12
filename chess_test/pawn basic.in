@@ -1,0 +1,4 @@
+game white-player black-player
+move e2 e4
+resign
+

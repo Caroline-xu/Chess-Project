@@ -1,0 +1,11 @@
+game white-player black-player
+move g1 f3
+move c7 c5
+move f3 e5
+move a7 a5
+move e5 f7
+move e8 f7
+move d2 d4
+move c5 d4
+resign
+
